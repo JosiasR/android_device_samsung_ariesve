@@ -47,6 +47,11 @@
     <string name="a2dp_sink_error_bt_active">Bluetooth muss zum Ändern des A2DP Modus deaktiviert sein.</string>
 
     <string name="category_performance_title">Performance</string>
+    <string name="highend_gfx_title">High-End GFX Schalter</string>
+    <string name="highend_gfx_summary_on">High-End Grafikeffekte sind aktiviert, z. B. Transparenz des Sperrbildschirms, der Status- und Benachrichtigungszeile</string>
+    <string name="highend_gfx_summary_off">High-End Grafikeffekte sind deaktiviert, keine Transparenz des Sperrbildschirms, der Status- und Benachrichtigungszeile</string>
+    <string name="highend_gfx_error">High-End Grafikeffekte lassen sich nicht aktivieren. Stelle sicher, dass die App Root-Rechte hat.</string>
+
     <string name="low_ram_title">Low RAM Schalter</string>
     <string name="low_ram_summary_on">Low RAM ist aktiviert, large-RAM ist deaktiviert.</string>
     <string name="low_ram_summary_off">Low RAM ist deaktiviert, large-RAM ist aktiviert</string>
