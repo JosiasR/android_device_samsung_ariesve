@@ -18,6 +18,7 @@
 
     <!-- Page Headers -->
     <string name="tab_general_title">GENERAL</string>
+    <string name="tab_performance_title">PERFORMANCE</string>
     <string name="tab_touchkey_title">TOUCHKEY</string>
     <string name="tab_bln_title">BLN</string>
 
@@ -46,6 +47,7 @@
     <string name="a2dp_sink_summary_off">A2DP Sink ist deaktiviert, A2DP Source ist aktiviert</string>
     <string name="a2dp_sink_error_bt_active">Bluetooth muss zum Ändern des A2DP Modus deaktiviert sein.</string>
 
+    <!-- Page Performance -->
     <string name="category_performance_title">Performance</string>
     <string name="highend_gfx_title">High-End GFX Schalter</string>
     <string name="highend_gfx_summary_on">High-End Grafikeffekte sind aktiviert, z. B. Transparenz des Sperrbildschirms, der Status- und Benachrichtigungszeile</string>
